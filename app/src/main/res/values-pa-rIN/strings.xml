@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Localisation testing</string>
+    <string name="text2">ਕੀ ਮੈਂ ਤੁਹਾਡੀ ਮਦਦ ਕਰ ਸੱਕਦਾ ਹਾਂ?</string>
+    <string name="text1">ਤੁਸੀਂ ਅੰਗਰੇਜ਼ੀ ਕਿਉਂ ਪੜ੍ਹ ਰਹੇ ਹੋ?</string>
+    <string name="text3">ਪਾਰਟੀ ਕਿਵੇਂ ਰਹੀ?</string>
+    <string name="text4">ਇਹ ਇੱਕ ਚੰਗਾ ਸਮਾਂ ਸੀ।</string>
+</resources>

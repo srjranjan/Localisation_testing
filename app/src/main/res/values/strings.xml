@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Localisation testing</string>
+    <string name="text1">Why are you studying English?</string>
+    <string name="text2">Can I help you?</string>
+    <string name="text3">HOW WAS THE PARTY?</string>
+    <string name="text4">It was a good time.</string>
+    <string name="dark_mode">dark mode</string>
+    <string name="change_app_theme">Change App Theme</string>
+    <string name="lightmode">Switch to Light Mode</string>
+    <string name="darkmode">Switch to Dark Mode</string>
+</resources>
