@@ -11,6 +11,7 @@
         android:theme="@style/Theme.LocalisationTesting">
         <activity
             android:name=".MainActivity"
+            android:configChanges="locale"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
